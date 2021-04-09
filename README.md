@@ -14,7 +14,7 @@
 + HTML, CSS, Javascript(간단하게만)
 
 ## 사용 및 경험 기술
-+ Android Studio
++ Android Studio(계속 공부중)
 + Django
 + OpenCV, Tensorflow(간단하게만)
 

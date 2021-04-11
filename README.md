@@ -115,7 +115,8 @@ https://github.com/justbydev/machine-learning
 #### 인공지능 학습용 데이터 활용 아이디어 공모전-한국지능정보사회진흥원장상 입상(1027개 아이디어 중 입상 30팀 수상)<br>
 https://github.com/justbydev/machine-learning 의 인공지능 학습용 데이터 활용 아이디어 공모전 폴더
 #### 2021 삼정 KPMG 아이디어톤-본선 진출<br>
-https://github.com/KPMG-wiseuniv
+organization: https://github.com/KPMG-wiseuniv
+Android app: https://github.com/KPMG-wiseuniv/App
 #### AI 학습용 한국인 두피 상태 이미지 데이터 아이디어 해커톤-최우수상<br>
 https://github.com/justbydev/AI-headimage-AndroidApp
 #### 2021 개방 공공데이터 활용 창업.융복합 서비스 아이디어 공모전-대상(여성가족부장관상)

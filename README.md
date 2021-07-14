@@ -126,3 +126,6 @@ Android app: https://github.com/KPMG-wiseuniv/App
 #### AI 학습용 한국인 두피 상태 이미지 데이터 아이디어 해커톤-최우수상<br>
 https://github.com/justbydev/AI-headimage-AndroidApp
 #### 2021 개방 공공데이터 활용 창업.융복합 서비스 아이디어 공모전-대상(여성가족부장관상)
+
+## 경력
+#### 인턴 근무 중(2021.07.05~)

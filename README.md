@@ -135,7 +135,7 @@ https://github.com/justbydev/AI-headimage-AndroidApp
 + 실시간 위치 파악 및 이동 경로 시각화
 + POI 검색 및 저장
 + 사용자 위치 및 행태 분석
-+ 사용자 이동/상태 분류 및 푸쉬 여부 판다 알고리즘 개발
++ 사용자 이동/상태 분류 및 푸쉬 여부 판단 알고리즘 개발
   
 사용 기술<br>
 + Fused Location Provider

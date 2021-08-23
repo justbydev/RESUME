@@ -129,3 +129,15 @@ https://github.com/justbydev/AI-headimage-AndroidApp
 
 ## 경력
 #### 인턴 근무 중(2021.07.05~)
+기업명: SK텔레콤(판교사옥)
+핵심 업무: Location-based 위치 검증 AOS 앱 개발
+주요 기능
++ 실시간 위치 파악 및 이동 경로 시각화
++ POI 검색 및 저장
++ 사용자 위치 및 행태 분석
++ 사용자 이동/상태 분류 및 푸쉬 여부 판다 알고리즘 개발
+사용 기술
++ Fused Location Provider
++ Foreground Service/Notification
++ Room/Livedata/Viewmodel/Rxjava
++ sftp 활용 서버 전송

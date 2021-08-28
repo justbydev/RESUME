@@ -128,9 +128,9 @@ https://github.com/justbydev/AI-headimage-AndroidApp
 #### 2021 개방 공공데이터 활용 창업.융복합 서비스 아이디어 공모전-대상(여성가족부장관상)
 
 ## 경력
-#### 인턴 근무 중(2021.07.05~)
+#### 인턴 근무(2021.07.05~2021.08.29)
 기업명: SK텔레콤(판교사옥)<br>
-핵심 업무: Location-based 위치 검증 AOS 앱 개발<br>
+핵심 업무: travel survey 위한 Location-based 위치 검증 AOS 앱 개발<br>
 주요 기능<br>
 + 실시간 위치 파악 및 이동 경로 시각화
 + POI 검색 및 저장

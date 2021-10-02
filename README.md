@@ -77,15 +77,16 @@
 + 전체 organization: https://github.com/KPMG-wiseuniv<br>
 + 어플리케이션 개발코드 및 README: https://github.com/KPMG-wiseuniv/App<br>
 + 서버 개발코드 및 README: https://github.com/KPMG-wiseuniv/ApiServer<br>
-7) 중고 거래 경매 방식 어플리케이션 개발 진행중(Android Studio/JAVA 기반)<br>
-+ 개발기간: 2021.3.20 ~ 진행중<br>
-+ 프로젝트 구성원: 안드로이드 개발자 2명, 서버 개발자 1명, 디자이너 1명<BR>
-+ 역할: 안드로이드 개발자<br>
-8) 모임 결제 어플리케이션(Android Studio/JAVA 기반)<br>
+7) 모임 결제 어플리케이션(Android Studio/JAVA 기반)<br>
 + 개발기간: 2021.4.27 ~ 2021.05.14
 + 프로젝트 구성원: 안드로이드 개발자 3명, 디자이너 1명
 + 역할: 안드로이드 개발자
 + 개발코드 및 README: https://github.com/justbydev/Woori_MOIM_Final
+8) 차박 라이프 공유 어플리케이션(Android Studio/JAVA 기반)<br>
++ 개발기간: 2021.7.5 ~ 진행중
++ 프로젝트 구성원: 안드로이드 개발자 2명, 서버 개발자 2명, 기획자 2명, 디자이너 2명
++ 역할: 안드로이드 개발자
++ 개발코드 및 README: https://github.com/TourKakao-Carping
 ### 공모전 경험
 1. 한경 앱 아이디어 챌린지
 2. 정주영 창업 경진대회
@@ -101,7 +102,8 @@
 12. 인공지능 학습용 데이터 활용 아이디어 공모전
 13. 2021 삼정 KPMG 아이디어톤
 14. 2021 개방 공공데이터 활용 창업.융복합 서비스 아이디어 공모전
-15. 2021 우리은행 온택트 해커톤<br>
+15. 2021 우리은행 온택트 해커톤
+16. 2021 관광 데이터 활용 공모전<br>
 
 ## 코딩, 알고리즘 대회 경험
 1. 삼성 알고리즘 특강 교육

@@ -83,7 +83,7 @@
 + 역할: 안드로이드 개발자
 + 개발코드 및 README: https://github.com/justbydev/Woori_MOIM_Final
 8) 차박 라이프 공유 어플리케이션(Android Studio/JAVA 기반)<br>
-+ 개발기간: 2021.7.5 ~ 진행중
++ 개발기간: 2021.7.5 ~ 2021.10.31
 + 프로젝트 구성원: 안드로이드 개발자 2명, 서버 개발자 2명, 기획자 2명, 디자이너 2명
 + 역할: 안드로이드 개발자
 + 개발코드 및 README: https://github.com/TourKakao-Carping
@@ -127,7 +127,9 @@ organization: https://github.com/KPMG-wiseuniv<br>
 Android app: https://github.com/KPMG-wiseuniv/App
 #### AI 학습용 한국인 두피 상태 이미지 데이터 아이디어 해커톤-최우수상<br>
 https://github.com/justbydev/AI-headimage-AndroidApp
-#### 2021 개방 공공데이터 활용 창업.융복합 서비스 아이디어 공모전-대상(여성가족부장관상)
+#### 2021 개방 공공데이터 활용 창업.융복합 서비스 아이디어 공모전-대상(여성가족부장관상)<br>
+#### 2021 한국 관광데이터 활용 공모전-최우수상<br>
+https://github.com/TourKakao-Carping/Carping-Android
 
 ## 경력
 #### 인턴 근무(2021.07.05~2021.08.29)

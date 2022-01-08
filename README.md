@@ -10,6 +10,7 @@
 ## 사용 및 경험 언어
 + C/C++
 + JAVA
++ Kotlin
 + Python
 + HTML, CSS, Javascript(간단하게만)
 
